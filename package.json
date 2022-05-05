@@ -1,0 +1,20 @@
+{
+  "name": "testci",
+  "version": "1.0.0",
+  "description": "this a project to test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "test"
+  ],
+  "author": "fsociety-fezco-",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
